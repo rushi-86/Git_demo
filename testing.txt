@@ -3,3 +3,4 @@ adding this row to test second commit.
 Testing diff command
 Again testing diff command
 checking direct commit
+checking direct commit
